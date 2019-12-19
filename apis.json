@@ -1,0 +1,72 @@
+{
+    "name": "MuleSoft",
+    "description": "MuleSoft provides the most widely used integration platform (Mule ESB & CloudHub) for connecting SaaS & enterprise applications in the cloud and on-premise.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2245-mulesoft.jpg",
+    "tags": [
+        "api service provider",
+        "design",
+        "design editor",
+        "have api",
+        "management",
+        "studio"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mulesoft\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "MuleSoft",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2245-mulesoft.jpg",
+            "humanURL": "http:\/\/www.mulesoft.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mulesoft-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blogs.mulesoft.org\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/feeds.feedburner.com\/muleblog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/mulesoft"
+        },
+        {
+            "type": "Email",
+            "url": "press@mulesoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "hongkong@mulesoft.com"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@mulesoft.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/mulesoft"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/MuleSoft"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mulesoft.com\/"
+        }
+    ]
+}
